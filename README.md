@@ -1,2 +1,3 @@
-# ergodone-mapping
-This is the mapping I currently use for my ergodone keyboard from aliexpress
+# Ergodone Mapping
+
+This is the mapping I currently use for my Ergodone keyboard from aliexpress
